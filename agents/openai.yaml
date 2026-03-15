@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Orchestrator"
+  short_description: "Guide AI-driven research workflows"
+  default_prompt: "Use $research-orchestrator to plan a literature review, prototype an experiment, and draft a publication-ready summary."
