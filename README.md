@@ -198,11 +198,4 @@ Use `--root` to place the run in a different workspace and `--force` to regenera
 - `scripts/init_research_run.py` provides the lightweight executable path without requiring an external service.
 - `scripts/publish_github.ps1` packages the local repo into a GitHub publish flow.
 
-## Inspiration
 
-This skill is inspired by:
-
-- EvoScientist GitHub repository: <https://github.com/EvoScientist/EvoScientist>
-- EvoScientist paper: <https://arxiv.org/abs/2603.08127>
-
-It is a distilled adaptation, not an official port.
